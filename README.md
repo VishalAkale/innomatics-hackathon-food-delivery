@@ -47,8 +47,6 @@ All datasets are located inside:
 
 ---
 
-## 📌 Important Note for Evaluators
-
 This notebook was originally developed on a local system.  
 Therefore, file paths are defined using a local base path:
 
@@ -77,4 +75,3 @@ A final merged dataset was created and analyzed to answer all business-driven qu
 
 👤 Author
 Vishal Akale
-Data Analyst Candidate
